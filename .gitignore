@@ -1,0 +1,10 @@
+node_modules
+.next
+.env
+.env.local
+.data
+*.tsbuildinfo
+next-env.d.ts
+public/pdfjs/
+.vercel
+trace-sign-settings.txt
